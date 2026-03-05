@@ -10,7 +10,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Passionate+Java+Learner;Practicing+DSA+%26+OOPs;Building+Projects+Daily;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Passionate+Java+Learner;Practicing+DSA+%26+Spring;Building+Projects+Daily;Future+Software+Engineer"/>
 </p>
 
 ---
