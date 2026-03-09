@@ -28,7 +28,7 @@
   <a href="https://github.com/Altamas07">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:altamash453khan@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Altamas07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Altamas07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  
 </p>
 
 <p align="center">
