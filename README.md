@@ -1,7 +1,8 @@
 <!-- Header Section -->
 <h1 align="center"># Hi 👋 I'm Altamash Khan
-### Java Backend Developer | Spring Boot | REST APIs | MySQL</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL | Learning Microservices</h3>
+
+### Java Backend Developer
+Spring Boot | REST APIs | MySQL | Learning Microservices</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>
