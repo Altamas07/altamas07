@@ -49,7 +49,7 @@ Spring Boot | REST APIs | MySQL | Learning Microservices</h1>
 
 ### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AltamashKhan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Altamas07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AltamashKhan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
