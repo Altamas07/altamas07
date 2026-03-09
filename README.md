@@ -18,7 +18,7 @@
 ### 🌟 About Me  
 - 🌱 Currently learning **Java, DSA & Spring Boot**  
 - 👨‍💻 Building **Backend Projects using Spring Boot**  
-- 📫 Reach me at: **youremail@gmail.com**  
+- 📫 Reach me at: **altamash453khan@gmail.com**  
 - ⚡ Fun fact: *I debug my life like I debug code 😅*
 
 ---
