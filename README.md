@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋 I'm Altamash Khan
-Java Backend Developer | Spring Boot | REST APIs</h1>
+<h1 align="center"># Hi 👋 I'm Altamash Khan
+### Java Backend Developer | Spring Boot | REST APIs | MySQL</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL | Learning Microservices</h3>
 
 <p align="center">
